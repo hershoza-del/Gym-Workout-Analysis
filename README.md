@@ -1,0 +1,1 @@
+I took a synthetic dataset of 973 people's workout patterns at the gym and use Python to change/rearrange the dataset, SQL for cross-checking it, and R to statistically confirm the clean dataset. I have attached the Python and R code and SQL queries I've utilized for this project.
